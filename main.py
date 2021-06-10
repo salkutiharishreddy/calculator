@@ -1,1 +1,3 @@
 print('Init')
+
+print('.')
